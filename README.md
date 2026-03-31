@@ -1,4 +1,4 @@
-# ⏰ Timer App
+# ⏰ clocky
 
 A modern, multi-tool web application for time management, including a live clock, stopwatch, alarm, and labeled multi-timer. Designed for productivity, study sessions, and daily routines.
 
@@ -23,7 +23,7 @@ A modern, multi-tool web application for time management, including a live clock
 📄 alarm.html
 📄 alarm.js
 📄 homepage.css
-📄 homepage.html
+📄 index.html
 📄 homepage.js
 📄 liveclock.css
 📄 liveclock.html
@@ -41,7 +41,7 @@ A modern, multi-tool web application for time management, including a live clock
 ## 🚀 Getting Started
 
 1. **Clone or Download** this repository.
-2. **Open `homepage.html`** in your browser to access the main dashboard.
+2. **Open `index.html`** in your browser to access the main dashboard.
 3. **Navigate** using the top navbar to access:
    - 🕒 Live Clock (`liveclock.html`)
    - ⏱️ Stopwatch (`stopwatch.html`)
@@ -77,8 +77,5 @@ Created by **Devang**
 💼 [LinkedIn](https://www.linkedin.com/in/devang-kumar-41642a366)  
 🐙 [GitHub](https://github.com/Devangdaksh)
 
----
-
-## 📄 License
 
 This project is for educational use. Feel free to modify and share!
