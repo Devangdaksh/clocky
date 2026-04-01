@@ -74,7 +74,7 @@ Created by **Devang**
 **Contact:**  
 ✉️ [Email](mailto:devangkumarprajapati1908@gmail.com)  
 📸 [Instagram](https://www.instagram.com/dev_daksh__/)  
-💼 [LinkedIn](https://www.linkedin.com/in/devang-kumar-41642a366)  
+💼 [LinkedIn](https://www.linkedin.com/in/devang-Singh-41642a366)  
 🐙 [GitHub](https://github.com/Devangdaksh)
 
 
